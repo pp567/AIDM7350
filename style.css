@@ -1,0 +1,42 @@
+p {
+    font-size: 20px;
+    color: red;
+}
+
+p:hover{
+    background: green;
+}
+
+.standout
+{
+    color: blue;
+}
+
+h2.standout:hover
+{
+    color: coral;
+}
+
+.image1{
+    border-radius: 50%;
+}
+
+.image2{
+    border-radius: 10px;
+}
+
+.image3{
+    border-radius: 50px;
+}
+
+.image4{
+    opacity: 0.2;
+}
+
+.image5{
+    filter: grayscale(100%);
+}
+
+.image6{
+    filter: blur(5px);
+}
